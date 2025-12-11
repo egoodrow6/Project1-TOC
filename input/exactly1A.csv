@@ -1,0 +1,15 @@
+exactly1A
+q0,q_found_one,q_accept,q_reject
+a,b,c
+a,b,c,_
+q0
+q_accept
+q_reject
+q0,b,q0,b,R
+q0,c,q0,c,R
+q0,a,q_found_one,a,R
+q0,_,q_reject,_,R
+q_found_one,b,q_found_one,b,R
+q_found_one,c,q_found_one,c,R
+q_found_one,_,q_accept,_,R
+q_found_one,a,q_reject,a,R

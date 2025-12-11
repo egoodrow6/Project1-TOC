@@ -1,0 +1,12 @@
+composite
+q0,q1,q2,q3,q_accept,q_reject
+1
+1,_
+q0
+q_accept
+q_reject
+q0,1,q1,1,R
+q1,1,q2,1,R
+q2,1,q3,1,R
+q3,1,q2,1,R
+q2,_,q_accept,_,R

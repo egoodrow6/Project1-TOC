@@ -1,0 +1,16 @@
+abc_star
+q0,q1,q2,q3,q_reject
+a,b,c
+a,b,c,_
+q0
+q3
+q_reject
+q0,a,q0,a,R
+q0,b,q1,b,R
+q0,c,q2,c,R
+q0,_,q3,_,R
+q1,b,q1,b,R
+q1,c,q2,c,R
+q1,_,q3,_,R
+q2,c,q2,c,R
+q2,_,q3,_,R
