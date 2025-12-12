@@ -13,7 +13,7 @@ The project was very successful! I was able to showcase an NTM solver and how it
 5	Approximately total time (in hours) to complete:
 
 10
-6	Link to github repository: https://github.com/egoodrow6/Project1-TOC 
+6	Link to github repository: https://github.com/egoodrow6/Project2-TOC 
 
 7	List of included files (if you have many files of a certain type, such as test files of different sizes, list just the folder): (Add more rows as necessary). Add more rows as necessary.
 
