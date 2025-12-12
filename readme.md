@@ -1,4 +1,4 @@
-<img width="468" height="64" alt="image" src="https://github.com/user-attachments/assets/8f23d396-f327-4dca-8c88-88e0f8f95bed" />Projest 2 Readme eeg 
+Projest 2 Readme eeg 
 Version 1 9/11/24
 A single copy of this template should be filled out and submitted with each project submission, regardless of the number of students on the team. It should have the name readme_”teamname”
 Also change the title of this template to “Project x Readme Team xxx”
